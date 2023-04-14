@@ -1,10 +1,10 @@
-a=10
+a=11
 b=20
 
-while a > 10:
-    a+=1
+while a > b:
+    a+=3
 print(a)
 
-print(25)
+print(26)
 
-print(30)
+print(31)
