@@ -1,11 +1,11 @@
-a=31
-b=50
+a=35
+b=53
 
-while a > b:
-    a+=1
-print(a)
+while a >= b:
+    a+=2
+print(a+b)
 
-print(35)
+print(37)
 
-print(39)
+print(41)
 
