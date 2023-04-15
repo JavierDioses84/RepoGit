@@ -5,7 +5,7 @@ while a > b:
     a+=1
 print(a)
 
-print(26)
+print(35)
 
-print(31)
+print(39)
 
