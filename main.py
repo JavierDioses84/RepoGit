@@ -9,4 +9,3 @@ print(26)
 
 print(31)
 
-print(32)
