@@ -1,4 +1,5 @@
-a=35
+
+a=39
 b=53
 
 while a >= b:
@@ -8,4 +9,5 @@ print(a+b)
 print(37)
 
 print(41)
+
 
